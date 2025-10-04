@@ -1,3 +1,5 @@
+![](https://github.com/matthewscott364/line.gif)
+
 ## Hi there 👋
 
 <!--
