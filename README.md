@@ -1,4 +1,4 @@
-![](https://github.com/matthewscott364/line.gif)
+![](https://github.com/matthewscott364/matthewscott364/blob/main/line.gif)
 
 ## Hi there 👋
 
