@@ -8,7 +8,9 @@ Hello! My name is Matthew Scott, and I’m based in the New York City metropolit
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="330" height="230" />
 
-**Important Information** ⚡
+
+<h3 align="left"> Important Information ⚡</h3>
+
 - 🔭 **I’m currently working on:** Multiple projects cleaning public supply chain data from employers like Amazon, UPS, USPS, etc.
 - 🌱 **I’m currently learning:** Business Intelligence, Data Visualization, and Data Engineering
 - 🤔 **I’m looking to collaborate on:** Large scale Business Intelligence Projects
