@@ -13,7 +13,7 @@ Hello! My name is Matthew Scott, and I’m based in the New York City metropolit
 <h3 align="left"> Important Information ⚡</h3>
 
 - 🔭 **I’m currently working on:** Multiple projects involving the cleaning and analysis of public supply chain datasets from major logistics organizations, including Amazon, UPS, and USPS.
-- 🌱 **I’m currently learning:** My expertise in Business Intelligence, Data Visualization, and Data Engineering to build a strong foundation for data-driven decision-making.
+- 🌱 **I’m currently learning:** My expertise in Data Visualization and Data Engineering to build a strong foundation for data-driven decision-making.
 - 🤔 **I’m looking to collaborate on:** Looking to contribute to and collaborate on impactful Business Intelligence projects with a focus on scalable data solutions.
 
 <div align="center">
