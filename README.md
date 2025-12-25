@@ -1,5 +1,5 @@
 # 💫 Welcome to Matthew Scott's Portfolio Page! 
-👋<br>Hello! My name is Matthew Scott, and I’m based in the New York City metropolitan area, near New Jersey. I’m currently pursuing a degree in Data Analytics at Rowan College at Burlington County, with a strong focus on becoming an Analytics Engineer. My goal is to leverage data-driven insights to help businesses make smarter decisions and achieve measurable results.
+<h4>Hello! My name is Matthew Scott, and I’m based in the New York City metropolitan area, near New Jersey. I’m currently pursuing a degree in Data Analytics at Rowan College at Burlington County, with a strong focus on becoming an Analytics Engineer. My goal is to leverage data-driven insights to help businesses make smarter decisions and achieve measurable results.</h4>
 
 
 ## 🌐 Socials:
