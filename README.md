@@ -1,27 +1,17 @@
 # Welcome! 👋
 
-```ruby
-class matthewscott364
-  attr_accessor :name, :pronouns, :current_role, :passions
+```sql
+WITH matthewscott364 AS (
+    SELECT
+        'NAME' AS 'Matthew Scott',
+        'LOCATION' AS "North Brunswick, NJ; United States"
+        CURRENT_ROLE AS 'College Student, Analytics Engineer'
+        PASSIONS AS 'Analytics Engineering, Data Engineering, Machine Learning'
+    FROM EARTH
+    WHERE matthewscott364 = 1;
+)
 
-  def initialize(
-    name: "Matthew Scott",
-    location: "North Brunswick, NJ, United States"
-    current_role: "College Student, Analytics Engineer",
-    passions: ["analytics-engineering", "data-engineering", "machine learning"]
-  )
-    @name = name
-    @pronouns = pronouns
-    @current_role = current_role
-    @passions = passions
-  end
-
-  def say_hi
-    "Hi! Thanks for dropping by. :-)"
-  end
-end
-
-me = matthewscott364.new
-puts me.say_hi
+SELECT *
+FROM matthewscott364;
 
 ```
